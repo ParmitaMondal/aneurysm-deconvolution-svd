@@ -1,0 +1,10 @@
+# requirements.txt
+```txt
+# Python 3.9+ recommended
+numpy>=1.22
+pandas>=1.5
+matplotlib>=3.5
+scipy>=1.8
+Pillow>=9.0
+pydicom>=2.3
+openpyxl>=3.0
